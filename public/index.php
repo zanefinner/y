@@ -1,3 +1,4 @@
+<script src="//unpkg.com/alpinejs" defer></script>
 <?php
 
 use Illuminate\Contracts\Http\Kernel;
